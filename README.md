@@ -1,2 +1,2 @@
-# SJT
-STJ Situation Judgement Test
+# MST
+Management Situation Test
